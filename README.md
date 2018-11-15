@@ -18,7 +18,7 @@ npm i
 | PASSWD              | PASSWD of your PrestaShop website (default to **prestashop_demo**) |
 
 #### Launch script
-If you want to run the Install test you can run the script **check_url_status.js**
+If you want to run the script **check_url_status.js**
 ## With default values
 ```
 node check_url_status.js
