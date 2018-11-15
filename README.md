@@ -4,7 +4,7 @@ this script will prevent the 400>500 http error code, by crawling your backoffic
 # How to install your environment
 
 ```bash
-git clone https://github.com/mbadrani/prestashop_linkchecker/
+git clone https://github.com/mbadrani/prestashop_linkchecker.git
 cd prestashop_linkchecker
 npm i
 ```
