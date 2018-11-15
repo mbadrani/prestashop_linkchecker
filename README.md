@@ -13,7 +13,7 @@ npm i
 
 | Parameter           | Description      |
 |---------------------|----------------- |
-| URL                 | URL of your PrestaShop website (default to **http://localhost/prestashop/admin-dev/**) |
+| URL                 | URL of your PrestaShop website (default to **http://localhost:8080/admin-dev/**) |
 | LOGIN               | LOGIN of your PrestaShop website (default to **demo@prestashop.com**) |
 | PASSWD              | PASSWD of your PrestaShop website (default to **prestashop_demo**) |
 
