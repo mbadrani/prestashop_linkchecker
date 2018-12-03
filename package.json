@@ -21,7 +21,12 @@
   },
   "homepage": "https://github.com/mbadrani/geppetto#readme",
   "dependencies": {
+    "convert-excel-to-json": "^1.5.2",
     "minimist": "^1.2.0",
     "puppeteer": "^1.10.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-string": "^1.5.0"
   }
 }
